@@ -1,0 +1,19 @@
+C:\Users\YVKVZV\source\repos\NET Zadanie 2\NET Zadanie 2\obj\Debug\NET Zadanie 2.csproj.AssemblyReference.cache
+C:\Users\YVKVZV\source\repos\NET Zadanie 2\NET Zadanie 2\obj\Debug\NET Zadanie 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\YVKVZV\source\repos\NET Zadanie 2\NET Zadanie 2\obj\Debug\MainWindow.g.cs
+C:\Users\YVKVZV\source\repos\NET Zadanie 2\NET Zadanie 2\obj\Debug\App.g.cs
+C:\Users\YVKVZV\source\repos\NET Zadanie 2\NET Zadanie 2\obj\Debug\NET Zadanie 2_MarkupCompile.cache
+C:\Users\YVKVZV\source\repos\NET Zadanie 2\NET Zadanie 2\obj\Debug\NET Zadanie 2_MarkupCompile.lref
+C:\Users\YVKVZV\source\repos\NET Zadanie 2\NET Zadanie 2\obj\Debug\KategoriaWidok.g.cs
+C:\Users\YVKVZV\source\repos\NET Zadanie 2\NET Zadanie 2\bin\Debug\NET Zadanie 2.exe.config
+C:\Users\YVKVZV\source\repos\NET Zadanie 2\NET Zadanie 2\bin\Debug\NET Zadanie 2.exe
+C:\Users\YVKVZV\source\repos\NET Zadanie 2\NET Zadanie 2\bin\Debug\NET Zadanie 2.pdb
+C:\Users\YVKVZV\source\repos\NET Zadanie 2\NET Zadanie 2\obj\Debug\App.baml
+C:\Users\YVKVZV\source\repos\NET Zadanie 2\NET Zadanie 2\obj\Debug\MainWindow.baml
+C:\Users\YVKVZV\source\repos\NET Zadanie 2\NET Zadanie 2\obj\Debug\KategoriaWidok.baml
+C:\Users\YVKVZV\source\repos\NET Zadanie 2\NET Zadanie 2\obj\Debug\NET Zadanie 2.g.resources
+C:\Users\YVKVZV\source\repos\NET Zadanie 2\NET Zadanie 2\obj\Debug\NET_Zadanie_2.Properties.Resources.resources
+C:\Users\YVKVZV\source\repos\NET Zadanie 2\NET Zadanie 2\obj\Debug\NET Zadanie 2.csproj.GenerateResource.cache
+C:\Users\YVKVZV\source\repos\NET Zadanie 2\NET Zadanie 2\obj\Debug\NET Zadanie 2.csproj.CoreCompileInputs.cache
+C:\Users\YVKVZV\source\repos\NET Zadanie 2\NET Zadanie 2\obj\Debug\NET Zadanie 2.exe
+C:\Users\YVKVZV\source\repos\NET Zadanie 2\NET Zadanie 2\obj\Debug\NET Zadanie 2.pdb

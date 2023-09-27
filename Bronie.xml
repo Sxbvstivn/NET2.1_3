@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TypyBroni>
+	<Kategoria
+        Nazwa="Rewolwer"
+        Opis="Broń palna strzelająca jednym nabojem z bębnowym magazynkiem"
+    >
+		<Podkategoria
+            Nazwa="Colt"
+            Opis="Amerykańska firma produkująca rewolwery"
+            DataPowstania="1836"
+            KrajPochodzenia="USA">
+			<Bron>
+				<Nazwa>Single Action Army</Nazwa>
+				<RokProdukcji>1873</RokProdukcji>
+				<Kaliber>.45 Colt</Kaliber>
+				<PojemnoscMagazynka>6</PojemnoscMagazynka>
+			</Bron>
+			<Bron>
+				<Nazwa>Python</Nazwa>
+				<RokProdukcji>1955</RokProdukcji>
+				<Kaliber>.357 Magnum</Kaliber>
+				<PojemnoscMagazynka>6</PojemnoscMagazynka>
+			</Bron>
+		</Podkategoria>
+		<Podkategoria
+            Nazwa="Smith and Wesson"
+            Opis="Amerykańska firma produkująca rewolwery"
+            DataPowstania="1852"
+            KrajPochodzenia="USA">
+			<Bron>
+				<Nazwa>Model 29</Nazwa>
+				<RokProdukcji>1955</RokProdukcji>
+				<Kaliber>.44 Magnum</Kaliber>
+				<PojemnoscMagazynka>6</PojemnoscMagazynka>
+			</Bron>
+			<Bron>
+				<Nazwa>Model 686</Nazwa>
+				<RokProdukcji>1980</RokProdukcji>
+				<Kaliber>.357 Magnum</Kaliber>
+				<PojemnoscMagazynka>6</PojemnoscMagazynka>
+			</Bron>
+		</Podkategoria>
+	</Kategoria>
+	<Kategoria
+        Nazwa="Pistolet"
+        Opis="Broń palna samopowtarzalna z magazynkiem na nabój"
+    >
+		<Podkategoria
+            Nazwa="Glock"
+            Opis="Austriacka firma produkująca pistolety samopowtarzalne"
+            DataPowstania="1963"
+            KrajPochodzenia="Austria">
+			<Bron>
+				<Nazwa>17</Nazwa>
+				<RokProdukcji>1982</RokProdukcji>
+				<Kaliber>9x19mm</Kaliber>
+				<PojemnoscMagazynka>17/19/33</PojemnoscMagazynka>
+			</Bron>
+			<Bron>
+				<Nazwa>19</Nazwa>
+				<RokProdukcji>1988</RokProdukcji>
+				<Kaliber>9x19mm</Kaliber>
+				<PojemnoscMagazynka>15/17/19/33</PojemnoscMagazynka>
+			</Bron>
+		</Podkategoria>
+		<Podkategoria
+            Nazwa="SIG Sauer"
+            Opis="Szwajcarsko-amerykańska firma produkująca pistolety samopowtarzalne"
+            DataPowstania="1976"
+            KrajPochodzenia="Szwajcaria/USA">
+			<Bron>
+				<Nazwa>P226</Nazwa>
+				<RokProdukcji>1984</RokProdukcji>
+				<Kaliber>9x19mm</Kaliber>
+				<PojemnoscMagazynka>15/20</PojemnoscMagazynka>
+			</Bron>
+			<Bron>
+				<Nazwa>P320</Nazwa>
+				<RokProdukcji>2014</RokProdukcji>
+				<Kaliber>9x19mm</Kaliber>
+				<PojemnoscMagazynka>17/21/32</PojemnoscMagazynka>
+			</Bron>
+		</Podkategoria>
+	</Kategoria>
+	<Kategoria
+        Nazwa="Karabin samopowtarzalny"
+        Opis="Broń palna strzelająca nabojami średniej mocy, która automatycznie ładowana jest przez energię gazów prochowych"
+    >
+		<Podkategoria
+            Nazwa="Colt"
+            Opis="amerykańskie przedsiębiorstwo produkujące broń palną"
+            DataPowstania="1836"
+            KrajPochodzenia="USA">
+			<Bron>
+				<Nazwa>AR-15</Nazwa>
+				<RokProdukcji>1964</RokProdukcji>
+				<Kaliber>.223 Remington/5.56x45mm NATO</Kaliber>
+				<PojemnoscMagazynka>20/30/40/60</PojemnoscMagazynka>
+			</Bron>
+			<Bron>
+				<Nazwa>MP15</Nazwa>
+				<RokProdukcji>2006</RokProdukcji>
+				<Kaliber>.223 Remington/5.56x45mm NATO</Kaliber>
+				<PojemnoscMagazynka>10/20/30/40/60</PojemnoscMagazynka>
+			</Bron>
+		</Podkategoria>
+		<Podkategoria
+            Nazwa="FN FAL"
+            Opis="Belgijski karabin samopowtarzalny"
+            DataPowstania="1954"
+            KrajPochodzenia="Belgia">
+			<Bron>
+				<Nazwa>FN FAL</Nazwa>
+				<RokProdukcji>1954</RokProdukcji>
+				<Kaliber>7.62x51mm NATO</Kaliber>
+				<PojemnoscMagazynka>20/30</PojemnoscMagazynka>
+			</Bron>
+		</Podkategoria>
+	</Kategoria>
+	<Kategoria
+        Nazwa="Strzelba samopowtarzalna"
+        Opis="Broń palna strzelająca nabojami o dużej sile rażenia, automatycznie ładowana po każdym strzale"
+    >
+		<Podkategoria
+            Nazwa="Benelli"
+            Opis="Włoska firma produkująca strzelby samopowtarzalne"
+            DataPowstania="1967"
+            KrajPochodzenia="Włochy">
+			<Bron>
+				<Nazwa>M4 Super 90</Nazwa>
+				<RokProdukcji>1998</RokProdukcji>
+				<Kaliber>12 gauge</Kaliber>
+				<PojemnoscMagazynka>5/7/8/10</PojemnoscMagazynka>
+			</Bron>
+			<Bron>
+				<Nazwa>Vinci</Nazwa>
+				<RokProdukcji>2009</RokProdukcji>
+				<Kaliber>12 gauge</Kaliber>
+				<PojemnoscMagazynka>3/4/5</PojemnoscMagazynka>
+			</Bron>
+		</Podkategoria>
+		<Podkategoria
+            Nazwa="Mossberg"
+            Opis="Amerykańska firma produkująca strzelby samopowtarzalne"
+            DataPowstania="1919"
+            KrajPochodzenia="USA">
+			<Bron>
+				<Nazwa>930</Nazwa>
+				<RokProdukcji>2005</RokProdukcji>
+				<Kaliber>12 gauge</Kaliber>
+				<PojemnoscMagazynka>5/8/10</PojemnoscMagazynka>
+			</Bron>
+			<Bron>
+				<Nazwa>500</Nazwa>
+				<RokProdukcji>1961</RokProdukcji>
+				<Kaliber>12 gauge</Kaliber>
+				<PojemnoscMagazynka>4/6/8/10</PojemnoscMagazynka>
+			</Bron>
+		</Podkategoria>
+	</Kategoria>
+	<Kategoria
+    Nazwa="Karabin automatyczny"
+    Opis="Broń palna strzelająca nabojami o dużej sile rażenia, automatycznie ładowana po każdym strzale"
+>
+		<Podkategoria
+			Nazwa="Kalashnikov Concern"
+			Opis="Rosyjski producent karabinów automatycznych"
+    >
+			<Bron>
+				<Nazwa>AK-47</Nazwa>
+				<RokProdukcji>1947</RokProdukcji>
+				<Kaliber>7.62x39mm</Kaliber>
+				<PojemnoscMagazynka>30/40/75/100</PojemnoscMagazynka>
+			</Bron>
+			<Bron>
+				<Nazwa>AK-74</Nazwa>
+				<RokProdukcji>1974</RokProdukcji>
+				<Kaliber>5.45x39mm</Kaliber>
+				<PojemnoscMagazynka>30/45/60</PojemnoscMagazynka>
+			</Bron>
+		</Podkategoria>
+		<Podkategoria
+			Nazwa="Colt Defense"
+			Opis="Amerykański producent broni palnej"
+    >
+			<Bron>
+				<Nazwa>M16</Nazwa>
+				<RokProdukcji>1960</RokProdukcji>
+				<Kaliber>.223 Remington/5.56x45mm NATO</Kaliber>
+				<PojemnoscMagazynka>20/30/40/60</PojemnoscMagazynka>
+			</Bron>
+			<Bron>
+				<Nazwa>M4 Carbine</Nazwa>
+				<RokProdukcji>1994</RokProdukcji>
+				<Kaliber>.223 Remington/5.56x45mm NATO</Kaliber>
+				<PojemnoscMagazynka>20/30/40/60</PojemnoscMagazynka>
+			</Bron>
+		</Podkategoria>
+	</Kategoria>
+	<Kategoria
+        Nazwa="Pistolet samopowtarzalny"
+        Opis="Broń palna strzelająca nabojami małej mocy, automatycznie ładowana po każdym strzale"
+    >
+		<Podkategoria
+            Nazwa="Beretta"
+            Opis="Włoska firma produkująca pistolety samopowtarzalne"
+            DataPowstania="1526"
+            KrajPochodzenia="Włochy">
+			<Bron>
+				<Nazwa>92</Nazwa>
+				<RokProdukcji>1975</RokProdukcji>
+				<Kaliber>9x19mm</Kaliber>
+				<PojemnoscMagazynka>15/17/20</PojemnoscMagazynka>
+			</Bron>
+			<Bron>
+				<Nazwa>PX4 Storm</Nazwa>
+				<RokProdukcji>2004</RokProdukcji>
+				<Kaliber>9x19mm</Kaliber>
+				<PojemnoscMagazynka>15/17/20</PojemnoscMagazynka>
+			</Bron>
+		</Podkategoria>
+		<Podkategoria
+            Nazwa="Walther"
+            Opis="Niemiecka firma produkująca pistolety samopowtarzalne"
+            DataPowstania="1886"
+            KrajPochodzenia="Niemcy">
+			<Bron>
+				<Nazwa>P99</Nazwa>
+				<RokProdukcji>1997</RokProdukcji>
+				<Kaliber>9x19mm</Kaliber>
+				<PojemnoscMagazynka>10/15/17/20</PojemnoscMagazynka>
+			</Bron>
+			<Bron>
+				<Nazwa>PPQ</Nazwa>
+				<RokProdukcji>2011</RokProdukcji>
+				<Kaliber>9x19mm</Kaliber>
+				<PojemnoscMagazynka>10/15/17/20</PojemnoscMagazynka>
+			</Bron>
+		</Podkategoria>
+	</Kategoria>
+</TypyBroni>
